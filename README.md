@@ -46,7 +46,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 
 ## DEPLOYMENT METHODS
 - Uploading session_id (creds.json) in session folder.
-- Edit Config.js or .env to your Choice.
+- Edit .env to your Choice.
 
 ---
 
@@ -103,7 +103,7 @@ Paste this after the installation
 
 <p align="Left">
     <a align="center">
-  <a aria-label="WEBSITE" href="https://elitepro-website.vercel.app/" target="_blank">
+  <a aria-label="WEBSITE" href="https://eliteprotech.zone.id/" target="_blank">
     <img alt="ELITEPRO-WEB" src="https://img.shields.io/badge/ELITEPRO WEB-25D366?style=for-the-badge&logo=online&logoColor=white" />
 </a>
 <a aria-label="OTHER REPO" href="https://github.com/EliteProTech/Elite-Pro-V2" target="_blank">
